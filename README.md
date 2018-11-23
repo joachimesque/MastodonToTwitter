@@ -4,7 +4,8 @@ ___Mastodon ⬄ Twitter real-time cross-poster, using streaming APIs.___
 
 
 Requirements: Python 3.6 minimum, with two packages, python-twitter
-version 3.2 upwards and Mastodon.py version 1.0.2 upwards:
+version 3.2 upwards and Mastodon.py version 1.1.2 (any version higher
+than 1.1.2 won’t work) :
 
     # Python 3
     pip3 install -r requirements.txt
